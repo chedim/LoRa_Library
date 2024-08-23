@@ -1,4 +1,5 @@
 #include "sx126x_hal.h"
+#include "Arduino.h"
 #include <SPI.h>
 
 uint8_t busy = 0;
